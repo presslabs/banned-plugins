@@ -1,0 +1,694 @@
+[{
+    "name": "Missed Scheduled",
+    "readme": "Missed Scheduled",
+    "file": "missed-schedule/missed-schedule.php",
+    "reason": "Presslabs notice: We already have our in-house solution for missed schedules.",
+    "group": "built-in",
+    "url": "",
+    "description": "",
+    "subgroup": "missed-schedules"
+}, {
+    "name": "tagDiv Speed Booster",
+    "readme": "tagDiv Speed Booster",
+    "file": "td-speed-booster/td-speed-booster.php",
+    "reason": "Presslabs notice: We have our own custom caching mechanism.",
+    "group": "built-in",
+    "url": "http://tagdiv.com",
+    "description": "Speed booster for Newspaper 7 and Newsmag 3 themes - It moves the styles and all the scripts of the theme to the bottom when needed. It activates internal theme optimizations for better speed and it adds async js .",
+    "subgroup": "caching"
+}, {
+    "name": "WP Missed Schedule - RC2013",
+    "readme": "WP Missed Schedule Fix Failed Future Posts",
+    "file": "wp-missed-schedule/wp-missed-schedule.php",
+    "reason": "Presslabs notice: We already have our in-house solution for missed schedules.",
+    "group": "built-in",
+    "url": "",
+    "description": "",
+    "subgroup": "missed-schedules"
+}, {
+    "name": "Watermark My Image",
+    "readme": "Plugin Name",
+    "file": "watermark-my-image/watermark-my-image.php",
+    "reason": "Presslabs notice: This plugin has a bug that alters the charset of the post content resulting in weird characters.",
+    "group": "security",
+    "url": "https://wordpress.org/plugins/watermark-my-image/",
+    "description": "",
+    "subgroup": "other"
+}, {
+    "name": "WordPress Database Reset",
+    "readme": "WordPress Database Reset",
+    "file": "wordpress-database-reset/wp-reset.php",
+    "reason": "Presslabs notice: For security reasons we do not allow you to install this plugin. It will break your Database.",
+    "group": "security",
+    "url": "https://wordpress.org/plugins/wordpress-database-reset/",
+    "description": "",
+    "subgroup": "database-access"
+}, {
+    "name": "WordPress Gzip Compression",
+    "readme": "WordPress Gzip Compression",
+    "file": "wordpress-gzip-compression/ezgz.php",
+    "reason": "Presslabs notice: Our servers already serve the content compressed.",
+    "group": "built-in",
+    "url": "https://wordpress.org/plugins/wordpress-gzip-compression/",
+    "description": "we already have gzip enabled on all servers.",
+    "subgroup": "other"
+}, {
+    "name": "Quick Cache",
+    "readme": "Quick Cache ( Speed Without Compromise )",
+    "file": "quick-cache/quick-cache.php",
+    "reason": "Presslabs notice: We have our own custom caching mechanism.",
+    "group": "built-in",
+    "url": "",
+    "description": "",
+    "subgroup": "caching"
+}, {
+    "name": "W3 Total Cache",
+    "readme": "W3 Total Cache",
+    "file": "w3-total-cache/w3-total-cache.php",
+    "reason": "Presslabs notice: We have our own custom caching mechanism.",
+    "group": "built-in",
+    "url": "https://wordpress.org/plugins/w3-total-cache/",
+    "description": "",
+    "subgroup": "caching"
+}, {
+    "name": "wp-cache",
+    "readme": "WP-Cache",
+    "file": "wp-cache/wp-cache.php",
+    "reason": "Presslabs notice: We have our own custom caching mechanism.",
+    "group": "built-in",
+    "url": "",
+    "description": "",
+    "subgroup": "caching"
+}, {
+    "name": "WP File Cache",
+    "readme": "WP File Cache",
+    "file": "wp-file-cache/file-cache.php",
+    "reason": "Presslabs notice: We have our own custom caching mechanism.",
+    "group": "built-in",
+    "url": "https://wordpress.org/plugins/wp-file-cache/",
+    "description": "",
+    "subgroup": "caching"
+}, {
+    "name": "CDN Linker",
+    "readme": "CDN Linker",
+    "file": "CDN-Linker-master/wp-cdn-linker.php",
+    "reason": "Presslabs notice: We have our own CDN and this plugin is interfering with it.",
+    "group": "built-in",
+    "url": "https://github.com/wmark/CDN-Linker",
+    "description": "this is interfering with our built-in <a href='https://www.presslabs.com/help/general/platform-specifications/cdn/cdn-specifications'>CDN</a>).",
+    "subgroup": "other"
+}, {
+    "name": "WordPress HTTPS (SSL)",
+    "readme": "WordPress HTTPS (SSL)",
+    "file": "wordpress-https/wordpress-https.php",
+    "reason": "Presslabs notice: This plugin is interfering with out platform resulting in multiple errors and making the wp-admin unusable.",
+    "group": "general",
+    "url": "https://wordpress.org/plugins/wordpress-https/",
+    "description": "interferes with our setup and it's also not updated in over 2 years.",
+    "subgroup": "other"
+}, {
+    "name": "WP Super Cache",
+    "readme": "WP Super Cache",
+    "file": "wp-super-cache/wp-cache.php",
+    "reason": "Presslabs notice: We have our own custom caching mechanism.",
+    "group": "built-in",
+    "url": "https://wordpress.org/plugins/wp-super-cache/",
+    "description": "",
+    "subgroup": "caching"
+}, {
+    "name": "Contextual Related Posts",
+    "readme": "Contextual Related Posts",
+    "file": "contextual-related-posts/contextual-related-posts.php",
+    "reason": "Presslabs notice: For related posts we recommend using YARPP or 3rd party services like Outbrain and AddThis.",
+    "group": "performance",
+    "url": "https://wordpress.org/plugins/contextual-related-posts/",
+    "description": "",
+    "subgroup": "related-posts"
+}, {
+    "name": "Dynamic Related Posts Plugin",
+    "readme": "Dynamic Related Posts Plugin",
+    "file": "dynamic-related-posts/drpp.php",
+    "reason": "Presslabs notice: For related posts we recommend using YARPP or 3rd party services like Outbrain and AddThis.",
+    "group": "performance",
+    "url": "",
+    "description": "this plugin was removed from the WP repository",
+    "subgroup": "related-posts"
+}, {
+    "name": "Similar Posts",
+    "readme": "Similar Posts",
+    "file": "similar-posts/similar-posts.php",
+    "reason": "Presslabs notice: For related posts we recommend using YARPP or 3rd party services like Outbrain and AddThis",
+    "group": "performance",
+    "url": "https://wordpress.org/plugins/similar-posts/",
+    "description": "",
+    "subgroup": "related-posts"
+}, {
+    "name": "WP-PostViews",
+    "readme": "WP-PostViews",
+    "file": "wp-postviews/wp-postviews.php",
+    "reason": "<a href='/wp-admin/plugin-install.php?tab=search&s=Toplytics&plugin-search-input=Search+Plugins'>Presslabs notice: We recommend using Toplytics for counting post views.</a>",
+    "group": "performance",
+    "url": "https://wordpress.org/plugins/wp-postviews/",
+    "description": "",
+    "subgroup": "most-visited"
+}, {
+    "name": "WP Most Popular",
+    "readme": "WP Most Popular",
+    "file": "wp-most-popular/wp-most-popular.php",
+    "reason": "<a href='/wp-admin/plugin-install.php?tab=search&s=Toplytics&plugin-search-input=Search+Plugins'>Presslabs notice: We recommend using Toplytics for counting post views.</a>",
+    "group": "performance",
+    "url": "https://wordpress.org/plugins/wp-most-popular/",
+    "description": "",
+    "subgroup": "most-visited"
+}, {
+    "name": "Popularity Posts Widget",
+    "readme": "Popularity Posts Widget",
+    "file": "popularity-posts-widget/popularity-posts-widget.php",
+    "reason": "<a href='/wp-admin/plugin-install.php?tab=search&s=Toplytics&plugin-search-input=Search+Plugins'>Presslabs notice: We recommend using Toplytics for counting post views.</a>",
+    "group": "performance",
+    "url": "https://wordpress.org/plugins/popularity-posts-widget/",
+    "description": "",
+    "subgroup": "most-visited"
+}, {
+    "name": "Special Recent Posts",
+    "readme": "Special Recent Posts",
+    "file": "special-recent-posts/special-recent-posts.php",
+    "reason": "Presslabs notice: This plugin is doing a dynamic request at every click breaking our caching mechanism and putting a high traffic site down.",
+    "group": "performance",
+    "url": "",
+    "description": "",
+    "subgroup": "dynamic-requests"
+}, {
+    "name": "Floating Social Bar",
+    "readme": "Floating Social Bar",
+    "file": "floating-social-bar/floating-social-bar.php",
+    "reason": "Presslabs notice: This plugin is doing a dynamic request at every click breaking our caching mechanism and putting a high traffic site down.",
+    "group": "performance",
+    "url": "https://wordpress.org/plugins/floating-social-bar/",
+    "description": "",
+    "subgroup": "dynamic-requests"
+}, {
+    "name": "Flare",
+    "readme": "Flare",
+    "file": "flare/flare.php",
+    "reason": "Presslabs notice: This plugin is doing a dynamic request at every click breaking our caching mechanism. We recommend using AddThis plugin instead.",
+    "group": "performance",
+    "url": "https://wordpress.org/plugins/flare/",
+    "description": "",
+    "subgroup": "dynamic-requests"
+}, {
+    "name": "Shareaholic | share buttons, analytics, related content",
+    "readme": "Shareaholic | share buttons, related posts, social analytics & more",
+    "file": "shareaholic/shareaholic.php",
+    "reason": "Presslabs notice: This plugin is doing a dynamic request at every click breaking our caching mechanism. We recommend using AddThis plugin instead.",
+    "group": "performance",
+    "url": "https://wordpress.org/plugins/shareaholic/",
+    "description": "and the old Sexy Bookmarks plugin:",
+    "subgroup": "dynamic-requests"
+}, {
+    "name": "Shareaholic | share buttons, analytics, related content",
+    "readme": "Shareaholic | share buttons, related posts, social analytics & more",
+    "file": "sexybookmarks/shareaholic.php",
+    "reason": "Presslabs notice: This plugin is doing a dynamic request at every click breaking our caching mechanism. We recommend using AddThis plugin instead.",
+    "group": "performance",
+    "url": "https://wordpress.org/plugins/sexybookmarks/",
+    "description": "",
+    "subgroup": "dynamic-requests"
+}, {
+    "name": "Currencyr",
+    "readme": "Currencyr",
+    "file": "currencyr/currencyr.php",
+    "reason": "Presslabs notice: This plugin is doing a dynamic request at every click breaking our caching mechanism. We recommend using AddThis plugin instead.",
+    "group": "performance",
+    "url": "https://wordpress.org/plugins/currencyr/",
+    "description": "",
+    "subgroup": "dynamic-requests"
+}, {
+    "name": "Facebook Comments by Fat Panda",
+    "readme": "Facebook Comments by Fat Panda",
+    "file": "fatpanda-facebook-comments/plugin.php",
+    "reason": "Presslabs notice: This plugin is doing a dynamic request at every click breaking our caching mechanism. We recommend using Facebook Comments plugin instead.",
+    "group": "performance",
+    "url": "https://wordpress.org/plugins/fatpanda-facebook-comments/",
+    "description": "",
+    "subgroup": "dynamic-requests"
+}, {
+    "name": "WP Tab Widget",
+    "readme": "WP Tab Widget",
+    "file": "wp-tab-widget/wp-tab-widget.php",
+    "reason": "Presslabs notice: This plugin is doing a dynamic request at every click breaking our caching mechanism and putting a high traffic site down.",
+    "group": "performance",
+    "url": "https://wordpress.org/plugins/wp-tab-widget/",
+    "description": "",
+    "subgroup": "dynamic-requests"
+}, {
+    "name": "WP Media folder",
+    "readme": "Media test",
+    "file": "wp-media-folder/wp-media-folder.php",
+    "reason": "This plugin is altering the uploads folder structure which is not recommended and is not working on our platform.",
+    "group": "performance",
+    "url": "https://www.joomunited.com/wordpress-products/wp-media-folder/",
+    "description": "",
+    "subgroup": "other"
+}, {
+    "name": "Backup Guard",
+    "readme": "Backup Guard",
+    "file": "backup/backup.php",
+    "reason": "Presslabs notice: For security reasons direct backup plugins are not allowed with us. We can provide any backup on demand.",
+    "group": "security",
+    "url": "https://wordpress.org/plugins/backup/",
+    "description": "",
+    "subgroup": "backup"
+}, {
+    "name": "Backup WP",
+    "readme": "Backup WP",
+    "file": "backup-wp/backup-wordpress.php",
+    "reason": "Presslabs notice: For security reasons direct backup plugins are not allowed with us. We can provide any backup on demand.",
+    "group": "security",
+    "url": "",
+    "description": "",
+    "subgroup": "backup"
+}, {
+    "name": "Simple Backup",
+    "readme": "Simple Backup",
+    "file": "simple-backup/simple-backup-loader.php",
+    "reason": "Presslabs notice: For security reasons direct backup plugins are not allowed with us. We can provide any backup on demand.",
+    "group": "security",
+    "url": "",
+    "description": "",
+    "subgroup": "backup"
+}, {
+    "name": "blogVault Real-time Backup",
+    "readme": "BackWPup Free - WordPress Backup Plugin",
+    "file": "blogvault-real-time-backup/blogvault.php",
+    "reason": "Presslabs notice: For security reasons direct backup plugins are not allowed with us. We can provide any backup on demand.",
+    "group": "security",
+    "url": "https://wordpress.org/plugins/blogvault-real-time-backup/",
+    "description": "",
+    "subgroup": "backup"
+}, {
+    "name": "Total Backup",
+    "readme": "Total Backup",
+    "file": "total-backup/total-backup.php",
+    "reason": "Presslabs notice: For security reasons direct backup plugins are not allowed with us. We can provide any backup on demand.",
+    "group": "security",
+    "url": "https://wordpress.org/plugins/total-backup/",
+    "description": "",
+    "subgroup": "backup"
+}, {
+    "name": "XCloner - Backup and Restore",
+    "readme": "XCloner - Backup and Restore",
+    "file": "xcloner-backup-and-restore/xcloner.php",
+    "reason": "Presslabs notice: For security reasons direct backup plugins are not allowed with us. We can provide any backup on demand.",
+    "group": "security",
+    "url": "https://wordpress.org/plugins/xcloner-backup-and-restore/",
+    "description": "",
+    "subgroup": "backup"
+}, {
+    "name": "UpdraftPlus Backup and Restoration",
+    "readme": "UpdraftPlus Backup and Restoration for WordPress",
+    "file": "updraftplus/updraftplus.php",
+    "reason": "Presslabs notice: For security reasons direct backup plugins are not allowed with us. We can provide any backup on demand.",
+    "group": "security",
+    "url": "https://wordpress.org/plugins/updraftplus/",
+    "description": "",
+    "subgroup": "backup"
+}, {
+    "name": "BackUpWordPress",
+    "readme": "BackUpWordPress",
+    "file": "backupwordpress/backupwordpress.php",
+    "reason": "Presslabs notice: For security reasons direct backup plugins are not allowed with us. We can provide any backup on demand.",
+    "group": "security",
+    "url": "https://wordpress.org/plugins/backupwordpress/",
+    "description": "",
+    "subgroup": "backup"
+}, {
+    "name": "BackWPup - WordPress Backup Plugin",
+    "readme": "BackWPup - WordPress Backup Plugin",
+    "file": "backwpup/backwpup.php",
+    "reason": "Presslabs notice: For security reasons direct backup plugins are not allowed with us. We can provide any backup on demand.",
+    "group": "security",
+    "url": "https://wordpress.org/plugins/backwpup/",
+    "description": "",
+    "subgroup": "backup"
+}, {
+    "name": "EZPZ One Click Backup",
+    "readme": "EZPZ One Click Backup",
+    "file": "ezpz-one-click-backup/ezpz-ocb.php",
+    "reason": "Presslabs notice: For security reasons direct backup plugins are not allowed with us. We can provide any backup on demand.",
+    "group": "security",
+    "url": "",
+    "description": "",
+    "subgroup": "backup"
+}, {
+    "name": "File Commander",
+    "readme": "File Commander",
+    "file": "file-commander/wp-plugin-file-commander.php",
+    "reason": "Presslabs notice: For security reasons we don't allow direct access to the file system from the wp-admin area. You can use SFPT for that.",
+    "group": "security",
+    "url": "",
+    "description": "removed from the WP repository",
+    "subgroup": "other"
+}, {
+    "name": "Portable phpMyAdmin",
+    "readme": "Portable phpMyAdmin",
+    "file": "portable-phpmyadmin/wp-phpmyadmin.php",
+    "reason": "Presslabs notice: For security reasons we do not allow access to the DB/phpMyAdmin.",
+    "group": "security",
+    "url": "",
+    "description": "removed from the WP repository because of security issues",
+    "subgroup": "database-access"
+}, {
+    "name": "CodeGuard Website Backups",
+    "readme": "CodeGuard",
+    "file": "codeguard-plugin.php",
+    "reason": "Presslabs notice: For security reasons direct backup plugins are not allowed with us. We can provide any backup on demand.",
+    "group": "security",
+    "url": "https://www.codeguard.com/wordpress-plugin/",
+    "description": "",
+    "subgroup": "backup"
+}, {
+    "name": "CodeTree Backup",
+    "readme": "CodeTree Backup",
+    "file": "the-codetree-backup/codetree-backup.php",
+    "reason": "Presslabs notice: For security reasons direct backup plugins are not allowed with us. We can provide any backup on demand.",
+    "group": "security",
+    "url": "https://wordpress.org/plugins/the-codetree-backup/",
+    "description": "",
+    "subgroup": "backup"
+}, {
+    "name": "WP Database Optimizer",
+    "readme": "WP Database Optimizer",
+    "file": "wp-database-optimizer/wp_database_optimizer.php",
+    "reason": "Presslabs notice: For security reasons we do not allow access to the DB/phpMyAdmin.",
+    "group": "security",
+    "url": "https://wordpress.org/plugins/wp-database-optimizer/",
+    "description": "",
+    "subgroup": "database-access"
+}, {
+    "name": "WP-Optimize",
+    "readme": "WP-Optimize",
+    "file": "wp-optimize/wp-optimize.php",
+    "reason": "Presslabs notice: For security reasons we do not allow access to the DB/phpMyAdmin.",
+    "group": "security",
+    "url": "https://wordpress.org/plugins/wp-optimize/",
+    "description": "",
+    "subgroup": "database-access"
+}, {
+    "name": "WordPress Database Backup",
+    "readme": "WP-DB-Backup",
+    "file": "wp-db-backup/wp-db-backup.php",
+    "reason": "Presslabs notice: For security reasons we do not allow access to the DB/phpMyAdmin.",
+    "group": "security",
+    "url": "https://wordpress.org/plugins/wp-db-backup/",
+    "description": "",
+    "subgroup": "database-access"
+}, {
+    "name": "WP-DBManager",
+    "readme": "WP-DBManager",
+    "file": "wp-dbmanager/wp-dbmanager.php",
+    "reason": "Presslabs notice: For security reasons we do not allow access to the DB/phpMyAdmin.",
+    "group": "security",
+    "url": "https://wordpress.org/plugins/wp-dbmanager/",
+    "description": "",
+    "subgroup": "database-access"
+}, {
+    "name": "WP-phpMyAdmin",
+    "readme": "WP-phpMyAdmin",
+    "file": "wp-phpmyadmin/wp-phpmyadmin.php",
+    "reason": "Presslabs notice: For security reasons we do not allow access to the DB/phpMyAdmin.",
+    "group": "security",
+    "url": "",
+    "description": "removed from the WP repository because of security issues",
+    "subgroup": "database-access"
+}, {
+    "name": "Duplicator",
+    "readme": "Plugin Name",
+    "file": "duplicator/duplicator.php",
+    "reason": "Presslabs notice: For security reasons we do not allow access to the DB/phpMyAdmin.",
+    "group": "security",
+    "url": "https://wordpress.org/plugins/duplicator/",
+    "description": "",
+    "subgroup": "backup"
+}, {
+    "name": "WordPress Move",
+    "readme": "WordPress Move",
+    "file": "wordpress-move/wordpres-move.php",
+    "reason": "Presslabs notice: For security reasons we do not allow access to the DB/phpMyAdmin.",
+    "group": "security",
+    "url": "https://wordpress.org/plugins/wordpress-move/",
+    "description": "",
+    "subgroup": "backup"
+}, {
+    "name": "Online Backup for WordPress",
+    "readme": "Online Backup for WordPress",
+    "file": "wponlinebackup/wponlinebackup.php",
+    "reason": "Presslabs notice: For security reasons direct backup plugins are not allowed with us. We can provide any backup on demand.",
+    "group": "security",
+    "url": "",
+    "description": "",
+    "subgroup": "backup"
+}, {
+    "name": "FileBrowser",
+    "readme": "FileBrowser",
+    "file": "filebrowser/filebrowser.php",
+    "reason": "Presslabs notice: For security reasons we don't allow direct access to the file system from wp-admin area. You can use SFPT for that.",
+    "group": "security",
+    "url": "https://wordpress.org/plugins/filebrowser/",
+    "description": "plugin not updated in over 2 years",
+    "subgroup": "other"
+}, {
+    "name": "Fuzzy SEO Queries",
+    "readme": "Fuzzy SEO Booster",
+    "file": "fuzzy-seo-booster/seoqueries.php",
+    "reason": "Presslabs notice: This plugin is known to trash the MySQL servers.",
+    "group": "performance",
+    "url": "https://wordpress.org/plugins/fuzzy-seo-booster/",
+    "description": "",
+    "subgroup": "sql-heavy"
+}, {
+    "name": "SEO Smart Links",
+    "readme": "SEO Smart Links",
+    "file": "seo-automatic-links/seo-links.php",
+    "reason": "Presslabs notice: This plugin is doing some huge queries that may trash the MySQL servers and take the wp-admin down.",
+    "group": "performance",
+    "url": "https://wordpress.org/plugins/seo-automatic-links/",
+    "description": "",
+    "subgroup": "sql-heavy"
+}, {
+    "name": "Role Scoper",
+    "readme": "Plugin Name",
+    "file": "role-scoper/role-scoper.php",
+    "reason": "Presslabs notice: This plugin is interfering with our built-in caching mechanism.",
+    "group": "performance",
+    "url": "https://wordpress.org/plugins/role-scoper/",
+    "description": "",
+    "subgroup": "other"
+}, {
+    "name": "Custom Field Template",
+    "readme": "Custom Field Template",
+    "file": "custom-field-template/custom-field-template.php",
+    "reason": "Presslabs notice: This plugin writes huge options in the database, seriously affecting performance.",
+    "group": "performance",
+    "url": "https://wordpress.org/plugins/custom-field-template/",
+    "description": "",
+    "subgroup": "sql-heavy"
+}, {
+    "name": "Ultimate Social",
+    "readme": "Ultimate Social Deux",
+    "file": "ultimate-social-deux/ultimate-social-deux.php",
+    "reason": "Presslabs notice: This plugin writes huge options in the database at every share, seriously affecting performance.",
+    "group": "performance",
+    "url": "https://wpsmarter.com/plugins/ultimate-social/",
+    "description": "",
+    "subgroup": "sql-heavy"
+}, {
+    "name": "Gitium",
+    "readme": "Gitium",
+    "file": "gitium/gitium.php",
+    "reason": "Presslabs notice: This plugin is built-in.",
+    "group": "built-in",
+    "url": "https://wordpress.org/plugins/gitium/",
+    "description": "this is our own git management plugin that is already built-in.",
+    "subgroup": "other"
+}, {
+    "name": "MapPress Easy Google Maps",
+    "readme": "MapPress Easy Google Maps",
+    "file": "mappress-google-maps-for-wordpress/mappress.php",
+    "reason": "Presslabs notice: This plugin is doing useless SQL queries on init hook.",
+    "group": "performance",
+    "url": "https://wordpress.org/plugins/mappress-google-maps-for-wordpress/",
+    "description": "",
+    "subgroup": "sql-heavy"
+}, {
+    "name": "EWWW Image Optimizer",
+    "readme": "EWWW Image Optimizer",
+    "file": "ewww-image-optimizer/ewww-image-optimizer.php",
+    "reason": "Presslabs notice: This plugin requires the exec function which is blocked by us.",
+    "group": "security",
+    "url": "https://wordpress.org/plugins/ewww-image-optimizer/",
+    "description": "we block the exec function and we recommend <a href='https://wordpress.org/plugins/shortpixel-image-optimiser/'>ShortPixel Image Optimizer</a>) instead.",
+    "subgroup": "other"
+}, {
+    "name": "Author and Post Statistic Widgets",
+    "readme": "Author and Post Statistic Widgets",
+    "file": "author-and-post-statistic-widgets/core.php",
+    "reason": "<a href='/wp-admin/plugin-install.php?tab=search&s=Toplytics&plugin-search-input=Search+Plugins'>PressLabs notice: We recommend using Toplytics for counting post views.</a>",
+    "group": "performance",
+    "url": "https://wordpress.org/plugins/author-and-post-statistic-widgets/",
+    "description": "",
+    "subgroup": "most-visited"
+}, {
+    "name": "Popular Posts by BestWebSoft",
+    "readme": "Popular Posts by BestWebSoft",
+    "file": "bws-popular-posts/bws-popular-posts.php",
+    "reason": "<a href='/wp-admin/plugin-install.php?tab=search&s=Toplytics&plugin-search-input=Search+Plugins'>PressLabs notice: We recommend using Toplytics for counting post views.</a>",
+    "group": "performance",
+    "url": "https://wordpress.org/plugins/bws-popular-posts/",
+    "description": "",
+    "subgroup": "most-visited"
+}, {
+    "name": "WordPress Beta Tester",
+    "readme": "WordPress Beta Tester",
+    "file": "wordpress-beta-tester/wp-beta-tester.php",
+    "reason": "Presslabs notice: This plugin is not working on our platform because the WordPress core update is on our responsibility, therefore the core update feature is blocked.",
+    "group": "general",
+    "url": "https://wordpress.org/plugins/wordpress-beta-tester/",
+    "description": "WordPress core is read-only and can only be updated by us.",
+    "subgroup": "other"
+}, {
+    "name": "Easy Social Share Buttons for WordPress",
+    "readme": "Easy Social Share Buttons for WordPress",
+    "file": "easy-social-share-buttons/easy-social-share-buttons.php",
+    "reason": "Presslabs notice: Too many admin-ajax.php requests for each pageview.",
+    "group": "performance",
+    "url": "https://wordpress.org/plugins/easy-social-share-buttons/",
+    "description": "",
+    "subgroup": "dynamic-requests"
+}, {
+    "name": "GD Star Rating",
+    "readme": "GD Star Rating",
+    "file": "gd-star-rating/gd-star-rating.php",
+    "reason": "<a href='/wp-admin/plugin-install.php?tab=search&s=GD+rating+system'>PressLabs notice: GD Star Rating is known for vulnerabilites and we recommend switching to GD Rating System plugin.</a>",
+    "group": "security",
+    "url": "",
+    "description": "this is known for vulnerabilities and we recommend switching to <a href='https://wordpress.org/plugins/gd-rating-system/'>GD Rating System</a>).",
+    "subgroup": "other"
+}, {
+    "name": "WordPress Popular Posts",
+    "readme": "WordPress Popular Posts",
+    "file": "wordpress-popular-posts/wordpress-popular-posts.php",
+    "reason": "WordPress Popular Posts writes constantly to the database to keep track of page views. See: <a href='https://github.com/cabrerahector/wordpress-popular-posts#requirements'>requirements</a>",
+    "group": "performance",
+    "url": "https://wordpress.org/plugins/wordpress-popular-posts/",
+    "description": "",
+    "subgroup": "most-visited"
+}, {
+    "name": "Exec-PHP",
+    "readme": "Executes &lt;?php ?&gt; code in your posts, pages and text widgets.",
+    "file": "exec-php/exec-php.php",
+    "reason": "This plugin hasn't been updated in a very long time and its PHP execution inside posts and widgets feature can be a security threat. Use shortcodes instead.",
+    "group": "security",
+    "url": "https://wordpress.org/plugins/exec-php/",
+    "description": "",
+    "subgroup": "other"
+}, {
+    "name": "WP Memcached Manager",
+    "readme": "A simple tool to manage memcached server(s) from inside the WordPress admin interface. Requires PECL Memcache client.",
+    "file": "wp-memcached-manager/wp-memcached-manager.php",
+    "reason": "This plugin will stop working in PHP 7 and we provide our own built-in memcache management functionality.",
+    "group": "built-in",
+    "url": "https://wordpress.org/plugins/wp-memcached-manager/",
+    "description": "",
+    "subgroup": "other"
+}, {
+    "name": "Easy Social Share Buttons for WordPress 4.1",
+    "readme": "Easy Social Share Buttons automatically adds beautiful share buttons to all your content with support of Facebook, Twitter, Google+, LinkedIn, Pinterest, Digg, StumbleUpon, VKontakte, Tumblr, Reddit, Print, E-mail and other 40 social networks and mobile messengers. Display them in more thanb 22 automatic display locations or use powerful shortcodes. Compatible with most popular e-commerce plugins, social plugins and affiliate plugins",
+    "file": "easy-social-share-buttons4/easy-social-share-buttons4.php",
+    "reason": "Presslabs notice: This plugin is doing a dynamic request at every click breaking our caching mechanism. We recommend using AddThis plugin instead.",
+    "group": "performance",
+    "url": "http://codecanyon.net/item/easy-social-share-buttons-for-wordpress/6394476?ref=appscreo",
+    "description": "",
+    "subgroup": "other"
+}, {
+    "name": "Easy Social Share Buttons",
+    "readme": "Easy Social Share Buttons",
+    "file": "easy-social-share-buttons/easy-social-share-buttons.php",
+    "reason": "Presslabs notice: Too many admin-ajax.php requests for each pageview.",
+    "group": "performance",
+    "url": "https://wordpress.org/plugins/easy-social-share-buttons/",
+    "description": "",
+    "subgroup": "dynamic-requests"
+}, {
+    "name": "Tevolution",
+    "readme": "Tevolution",
+    "file": "Tevolution/templatic.php",
+    "reason": "PressLabs Notice: Plugin represents a high security risk on our platform.",
+    "group": "security",
+    "url": "http://templatic.com/docs/tevolution-guide/",
+    "description": "Tevolution is a collection of Templatic features to enhance your website.",
+    "subgroup": "other"
+}, {
+    "name": "Tevolution - Directory",
+    "readme": "Tevolution",
+    "file": "Tevolution-Directory/directory.php",
+    "reason": "PressLabs Notice: Plugin represents a high security risk on our platform.",
+    "group": "security",
+    "url": "http://templatic.com/docs/directory-plugin-guide/",
+    "description": "Tevolution - Directory plugin is specially built to turn your site into a powerful listings directory for any niche. To be used with Tevolution, this plugin is loaded with a bundle of features like listing submissions, power search, unlimited categories, custom fields and subscription or per listing payment packages.",
+    "subgroup": "other"
+}, {
+    "name": "Tevolution - LocationManager",
+    "readme": "Tevolution",
+    "file": "Tevolution-LocationManager/location-manager.php",
+    "reason": "PressLabs Notice: Plugin represents a high security risk on our platform.",
+    "group": "security",
+    "url": "http://templatic.com/docs/tevolution-location-manager/",
+    "description": "Tevolution - Location Manager plugin is specially built to enhance your site's functionality by allowing location search and sort, setup the maps on your custom post pages with pin point effects. You can also add and manage locations for your site and even have city logs that will show you the number of visits to each of your cities.",
+    "subgroup": "other"
+}, {
+    "name": "Database Browser",
+    "readme": "Database Browser",
+    "file": "database-browser/database-browser.php",
+    "reason": "Presslabs notice: Interferes with our caching mechanism.",
+    "group": "performance",
+    "url": "http://www.stillbreathing.co.uk/wordpress/database-browser/",
+    "description": "Easily browse the data in your database, and download in CSV, XML, SQL and JSON format",
+    "subgroup": "other"
+}, {
+    "name": "All-in-One WP Migration",
+    "readme": "All-in-One WP Migration",
+    "file": "all-in-one-wp-migration/all-in-one-wp-migration.php",
+    "reason": "Presslabs notice: We provide our own solutions for backups and migration.",
+    "group": "security",
+    "url": "https://servmask.com/",
+    "description": "Migration tool for all your blog data. Import or Export your blog content with a single click.",
+    "subgroup": "backup"
+}, {
+    "name": "WP Rocket",
+    "readme": "WP Rocket",
+    "file": "wp-media/wp-rocket.php",
+    "reason": "Presslabs notice: We provide our own built-in cache system.",
+    "group": "built-in",
+    "url": "https://wp-rocket.me",
+    "description": "The best WordPress performance plugin.",
+    "subgroup": "other"
+}, {
+    "name": "WP Rocket",
+    "readme": "WP Rocket",
+    "file": "wp-rocket/wp-rocket.php",
+    "reason": "Presslabs notice: We provide our own built-in cache system.",
+    "group": "built-in",
+    "url": "https://wp-rocket.me",
+    "description": "The best WordPress performance plugin.",
+    "subgroup": "other"
+}, {
+    "name": "Plugin Organizer",
+    "readme": "Plugin Organizer",
+    "file": "plugin-organizer/plugin-organizer.php",
+    "reason": "Presslabs notice: Generates huge number of SQL Queries which slows down your WP.",
+    "group": "performance",
+    "url": "http://www.jsterup.com",
+    "description": "A plugin for specifying the load order of your plugins.",
+    "subgroup": "sql-heavy"
+}]
