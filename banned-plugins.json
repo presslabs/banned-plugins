@@ -770,5 +770,14 @@
         "url": "http://www.jsterup.com",
         "description": "A plugin for specifying the load order of your plugins.",
         "subgroup": "sql-heavy"
+    }, {
+        "name": "WP Super Cache - Clear all cache",
+        "readme": "WP Super Cache - Clear all cache",
+        "file": "wp-super-cache-clear-cache-menu.php/wp-super-cache-clear-cache-menu.php",
+        "reason": "Presslabs notice: We have our own cache system.",
+        "group": "built-in",
+        "url": "http://ocaoimh.ie/wp-super-cache/",
+        "description": "Clear all cached files of the WP Super Cache plugin directly from the admin menu (option only available to super admins).",
+        "subgroup": "caching"
     }]
 }
