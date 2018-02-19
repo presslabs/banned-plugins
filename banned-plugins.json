@@ -784,9 +784,9 @@
         "readme": "Ad Blocking Detector",
         "file": "ad-blocking-detector/ad-blocking-detector.php",
         "reason": "Presslabs notice: This plugin writes huge options in the DB and can knock down the MySQL server",
-        "group": "general",
+        "group": "performance",
         "url": "https://wordpress.org/plugins/ad-blocking-detector/",
         "description": "This plugin writes huge options in the DB and can knock down the MySQL server.",
-        "subgroup": "other"
+        "subgroup": "sql-heavy"
     }]
 }
