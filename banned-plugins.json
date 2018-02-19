@@ -773,11 +773,20 @@
     }, {
         "name": "WP Super Cache - Clear all cache",
         "readme": "WP Super Cache - Clear all cache",
-        "file": "wp-super-cache-clear-cache-menu.php/wp-super-cache-clear-cache-menu.php",
+        "file": "wp-super-cache-clear-cache-menu/wp-super-cache-clear-cache-menu.php",
         "reason": "Presslabs notice: We have our own cache system.",
         "group": "built-in",
         "url": "http://ocaoimh.ie/wp-super-cache/",
         "description": "Clear all cached files of the WP Super Cache plugin directly from the admin menu (option only available to super admins).",
         "subgroup": "caching"
+    }, {
+        "name": "Ad Blocking Detector",
+        "readme": "Ad Blocking Detector",
+        "file": "ad-blocking-detector/ad-blocking-detector.php",
+        "reason": "Presslabs notice: This plugin writes huge options in the DB and can knock down the MySQL server",
+        "group": "performance",
+        "url": "https://wordpress.org/plugins/ad-blocking-detector/",
+        "description": "This plugin writes huge options in the DB and can knock down the MySQL server.",
+        "subgroup": "sql-heavy"
     }]
 }
