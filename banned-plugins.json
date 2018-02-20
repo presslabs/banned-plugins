@@ -114,6 +114,15 @@
         "description": "",
         "subgroup": "other"
     }, {
+        "name": "Auto Upload Images",
+        "readme": "Auto Upload Images",
+        "file": "auto-upload-images/index.php",
+        "reason": "Presslabs notice: This plugin has serious security vulnerabilities, allowing the upload and then execution of random php scripts.",
+        "group": "security",
+        "url": "https://wordpress.org/plugins/auto-upload-images/",
+        "description": "",
+        "subgroup": "other"
+    }, {
         "name": "WordPress Database Reset",
         "readme": "WordPress Database Reset",
         "file": "wordpress-database-reset/wp-reset.php",
