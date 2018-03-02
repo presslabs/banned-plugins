@@ -797,5 +797,14 @@
         "url": "https://wordpress.org/plugins/ad-blocking-detector/",
         "description": "This plugin writes huge options in the DB and can knock down the MySQL server.",
         "subgroup": "sql-heavy"
+    }, {
+        "name": "AccessPress Social Pro",
+        "readme": "AccessPress Social Pro",
+        "file": "accesspress-social-pro/accesspress-social-pro.php",
+        "reason": "Presslabs notice: This plugin creates unnecessary wp_transients table causing  great WP slowness",
+        "group": "performance",
+        "url": "https://accesspressthemes.com/wordpress-plugins/accesspress-social-pro/",
+        "description": "This plugin creates unnecessary wp_transients table causing  great WP slowness",
+        "subgroup": "sql-heavy"
     }]
 }
