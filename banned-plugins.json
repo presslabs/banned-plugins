@@ -792,19 +792,28 @@
         "name": "Ad Blocking Detector",
         "readme": "Ad Blocking Detector",
         "file": "ad-blocking-detector/ad-blocking-detector.php",
-        "reason": "Presslabs notice: This plugin writes huge options in the DB and can knock down the MySQL server",
+        "reason": "Presslabs notice: This plugin writes huge options in the DB and can knock down the MySQL servers.",
         "group": "performance",
         "url": "https://wordpress.org/plugins/ad-blocking-detector/",
-        "description": "This plugin writes huge options in the DB and can knock down the MySQL server.",
+        "description": "This plugin writes huge options in the DB and can knock down the MySQL servers.",
         "subgroup": "sql-heavy"
     }, {
         "name": "AccessPress Social Pro",
         "readme": "AccessPress Social Pro",
         "file": "accesspress-social-pro/accesspress-social-pro.php",
-        "reason": "Presslabs notice: This plugin creates unnecessary wp_transients table causing  great WP slowness",
+        "reason": "Presslabs notice: This plugin creates unnecessary wp_transients table causing great WP slowness.",
         "group": "performance",
         "url": "https://accesspressthemes.com/wordpress-plugins/accesspress-social-pro/",
         "description": "This plugin creates unnecessary wp_transients table causing  great WP slowness",
+        "subgroup": "sql-heavy"
+    }, {
+        "name": "Media Deduper Pro",
+        "readme": "Media Deduper Pro",
+        "file": "media-deduper-pro/media-deduper-pro.php",
+        "reason": "Presslabs notice: This plugin writes huge options in the DB and can knock down the MySQL servers.",
+        "group": "performance",
+        "url": "https://www.mediadeduper.com/",
+        "description": "This plugin writes huge options in the DB and can knock down the MySQL servers.",
         "subgroup": "sql-heavy"
     }]
 }
