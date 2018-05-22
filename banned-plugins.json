@@ -474,15 +474,6 @@
         "description": "",
         "subgroup": "database-access"
     }, {
-        "name": "WP-Optimize",
-        "readme": "WP-Optimize",
-        "file": "wp-optimize/wp-optimize.php",
-        "reason": "Presslabs notice: For security reasons we do not allow access to the DB/phpMyAdmin.",
-        "group": "security",
-        "url": "https://wordpress.org/plugins/wp-optimize/",
-        "description": "",
-        "subgroup": "database-access"
-    }, {
         "name": "WordPress Database Backup",
         "readme": "WP-DB-Backup",
         "file": "wp-db-backup/wp-db-backup.php",
