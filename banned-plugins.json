@@ -330,6 +330,15 @@
         "description": "",
         "subgroup": "dynamic-requests"
     }, {
+        "name": "Ninja Popups",
+        "readme": "Ninja Popups",
+        "file": "arscode-ninja-popups/arscode-ninja-popups.php",
+        "reason": "Presslabs notice: This plugin is doing multiple dynamic requests at every click breaking our caching mechanism and putting a high traffic site down.",
+        "group": "performance",
+        "url": "",
+        "description": "",
+        "subgroup": "dynamic-requests"
+    }, {
         "name": "WP Media folder",
         "readme": "Media test",
         "file": "wp-media-folder/wp-media-folder.php",
