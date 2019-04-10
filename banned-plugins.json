@@ -441,7 +441,7 @@
         "name": "File Commander",
         "readme": "File Commander",
         "file": "file-commander/wp-plugin-file-commander.php",
-        "reason": "Presslabs notice: For security reasons we don't allow direct access to the file system from the wp-admin area. You can use SFPT for that.",
+        "reason": "Presslabs notice: For security reasons we don't allow direct access to the file system from the wp-admin area.",
         "group": "security",
         "url": "",
         "description": "removed from the WP repository",
@@ -760,6 +760,15 @@
         "group": "built-in",
         "url": "https://wp-rocket.me",
         "description": "The best WordPress performance plugin.",
+        "subgroup": "other"
+    }, {
+        "name": "Related Posts",
+        "readme": "Plugin Name",
+        "file": "yuzo-related-post/yuzo_related_post.php",
+        "reason": "Presslabs notice: This plugin has been removed from the WordPress repository for security reasons.",
+        "group": "security",
+        "url": "",
+        "description": "removed from the WP repository",
         "subgroup": "other"
     }, {
         "name": "WP Rocket",
