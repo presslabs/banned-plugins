@@ -402,15 +402,6 @@
         "description": "",
         "subgroup": "backup"
     }, {
-        "name": "UpdraftPlus Backup and Restoration",
-        "readme": "UpdraftPlus Backup and Restoration for WordPress",
-        "file": "updraftplus/updraftplus.php",
-        "reason": "Presslabs notice: For security reasons direct backup plugins are not allowed with us. We can provide any backup on demand.",
-        "group": "security",
-        "url": "https://wordpress.org/plugins/updraftplus/",
-        "description": "",
-        "subgroup": "backup"
-    }, {
         "name": "BackUpWordPress",
         "readme": "BackUpWordPress",
         "file": "backupwordpress/backupwordpress.php",
@@ -753,15 +744,6 @@
         "description": "Migration tool for all your blog data. Import or Export your blog content with a single click.",
         "subgroup": "backup"
     }, {
-        "name": "WP Rocket",
-        "readme": "WP Rocket",
-        "file": "wp-media/wp-rocket.php",
-        "reason": "Presslabs notice: We provide our own built-in cache system.",
-        "group": "built-in",
-        "url": "https://wp-rocket.me",
-        "description": "The best WordPress performance plugin.",
-        "subgroup": "other"
-    }, {
         "name": "Related Posts",
         "readme": "Plugin Name",
         "file": "yuzo-related-post/yuzo_related_post.php",
@@ -769,15 +751,6 @@
         "group": "security",
         "url": "",
         "description": "removed from the WP repository",
-        "subgroup": "other"
-    }, {
-        "name": "WP Rocket",
-        "readme": "WP Rocket",
-        "file": "wp-rocket/wp-rocket.php",
-        "reason": "Presslabs notice: We provide our own built-in cache system.",
-        "group": "built-in",
-        "url": "https://wp-rocket.me",
-        "description": "The best WordPress performance plugin.",
         "subgroup": "other"
     }, {
         "name": "Plugin Organizer",
