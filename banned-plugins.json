@@ -797,5 +797,14 @@
         "url": "https://www.mediadeduper.com/",
         "description": "This plugin writes huge options in the DB and can knock down the MySQL servers.",
         "subgroup": "sql-heavy"
+    }, {
+        "name": "String locator",
+        "readme": "String locator",
+        "file": "string-locator/string-locator.php",
+        "reason": "Presslabs notice: This plugin writes huge options in the DB and will crash your site.",
+        "group": "performance",
+        "url": "http://www.clorith.net/wordpress-string-locator/",
+        "description": "This plugin writes huge options in the DB and will crash your site.",
+        "subgroup": "sql-heavy"
     }]
 }
