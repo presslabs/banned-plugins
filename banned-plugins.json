@@ -808,12 +808,12 @@
         "subgroup": "sql-heavy"
     }, {
         "name": "AMP Cache",
-        "readme": "amp-cache",
+        "readme": "AMP Cache",
         "file": "amp-cache/ampforwp-cache.php",
         "reason": "Presslabs notice: We have our own custom caching mechanism and create a heavy load on the data server.",
         "group": "built-in",
-        "url": "",
-        "description": "",
+        "url": "https://ampforwp.com/amp-cache/",
+        "description": "Introducing the revolutionary cache system for AMP. It goes one step beyond AMP and It makes the AMP pages load Blazing fast!",
         "subgroup": "caching"
     }]
 }
