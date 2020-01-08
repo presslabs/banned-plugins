@@ -806,5 +806,14 @@
         "url": "http://www.clorith.net/wordpress-string-locator/",
         "description": "This plugin writes huge options in the DB and will crash your site.",
         "subgroup": "sql-heavy"
+    }, {
+        "name": "AMP Cache",
+        "readme": "amp-cache",
+        "file": "amp-cache/ampforwp-cache.php",
+        "reason": "Presslabs notice: We have our own custom caching mechanism and create a heavy load on the data server.",
+        "group": "built-in",
+        "url": "",
+        "description": "",
+        "subgroup": "caching"
     }]
 }
