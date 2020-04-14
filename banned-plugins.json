@@ -46,7 +46,7 @@
             "subgroups": {
                 "related-posts": {
                     "title": "Related posts plugins",
-                    "description": "For all related posts plugins we recommend using either YARPP or a plugin based on an external service such as Contextly."
+                    "description": "For all related posts plugins we recommend using a plugin based on an external service such as Contextly."
                 },
                 "most-visited": {
                     "title": "Most visited posts plugins",
@@ -207,7 +207,7 @@
         "name": "Contextual Related Posts",
         "readme": "Contextual Related Posts",
         "file": "contextual-related-posts/contextual-related-posts.php",
-        "reason": "Presslabs notice: For related posts we recommend using YARPP or 3rd party services like Outbrain and AddThis.",
+        "reason": "Presslabs notice: For related posts we recommend using a 3rd party services like Outbrain and AddThis.",
         "group": "performance",
         "url": "https://wordpress.org/plugins/contextual-related-posts/",
         "description": "",
@@ -216,7 +216,7 @@
         "name": "Dynamic Related Posts Plugin",
         "readme": "Dynamic Related Posts Plugin",
         "file": "dynamic-related-posts/drpp.php",
-        "reason": "Presslabs notice: For related posts we recommend using YARPP or 3rd party services like Outbrain and AddThis.",
+        "reason": "Presslabs notice: For related posts we recommend using a 3rd party services like Outbrain and AddThis.",
         "group": "performance",
         "url": "",
         "description": "this plugin was removed from the WP repository",
@@ -225,10 +225,19 @@
         "name": "Similar Posts",
         "readme": "Similar Posts",
         "file": "similar-posts/similar-posts.php",
-        "reason": "Presslabs notice: For related posts we recommend using YARPP or 3rd party services like Outbrain and AddThis",
+        "reason": "Presslabs notice: For related posts we recommend using a 3rd party services like Outbrain and AddThis",
         "group": "performance",
         "url": "https://wordpress.org/plugins/similar-posts/",
         "description": "",
+        "subgroup": "related-posts"
+    }, {
+        "name": "Yet Another Related Posts Plugin",
+        "readme": "Yet Another Related Posts Plugin",
+        "file": "yet-another-related-posts-plugin/yarpp.php",
+        "reason": "Presslabs notice: For related posts we recommend using a 3rd party services like Outbrain and AddThis",
+        "group": "performance",
+        "url": "https://wordpress.org/plugins/yet-another-related-posts-plugin/",
+        "description": "Adds related posts to your site and in RSS feeds, based on a powerful, customizable algorithm.",
         "subgroup": "related-posts"
     }, {
         "name": "WP-PostViews",
