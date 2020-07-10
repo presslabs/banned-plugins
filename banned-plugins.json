@@ -159,6 +159,15 @@
         "description": "",
         "subgroup": "caching"
     }, {
+        "name": "Hummingbird",
+        "readme": "Hummingbird",
+        "file": "hummingbird-performance/wp-hummingbird.php",
+        "reason": "Presslabs notice: This performance plugin is causing Cache Refresh problems.",
+        "group": "performance",
+        "url": "https://wordpress.org/plugins/hummingbird-performance/",
+        "description": "Hummingbird zips through your site finding new ways to make it load faster, from file compression and minification to browser caching – because when it comes to pagespeed, every millisecond counts.",
+        "subgroup": "other"
+    }, {
         "name": "wp-cache",
         "readme": "WP-Cache",
         "file": "wp-cache/wp-cache.php",
