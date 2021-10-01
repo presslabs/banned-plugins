@@ -168,6 +168,15 @@
         "description": "",
         "subgroup": "caching"
     }, {
+        "name": "LiteSpeed Cache",
+        "readme": "LiteSpeed Cache",
+        "file": "litespeed-cache/litespeed-cache.php",
+        "reason": "Presslabs notice: We have our own custom caching mechanism.",
+        "group": "built-in",
+        "url": "https://wordpress.org/plugins/litespeed-cache/",
+        "description": "",
+        "subgroup": "caching"
+    }, {
         "name": "Hummingbird",
         "readme": "Hummingbird",
         "file": "hummingbird-performance/wp-hummingbird.php",
