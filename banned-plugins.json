@@ -159,6 +159,15 @@
         "description": "",
         "subgroup": "caching"
     }, {
+        "name": "Ezoic",
+        "readme": "Ezoic",
+        "file": "ezoic-integration/ezoic-integration.php",
+        "reason": "Presslabs notice: We have our own custom caching mechanism and CDN.",
+        "group": "built-in",
+        "url": "https://wordpress.org/plugins/ezoic-integration/",
+        "description": "",
+        "subgroup": "caching"
+    }, {
         "name": "Hummingbird",
         "readme": "Hummingbird",
         "file": "hummingbird-performance/wp-hummingbird.php",
