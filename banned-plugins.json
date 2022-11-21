@@ -666,7 +666,7 @@
         "name": "WordPress Beta Tester",
         "readme": "WordPress Beta Tester",
         "file": "wordpress-beta-tester/wp-beta-tester.php",
-        "reason": "Presslabs notice: This plugin is not working on our platform because the WordPress core update is on our responsibility, therefore the core update feature is blocked.",
+        "reason": "Presslabs notice: This plugin is not working on our platform because the WordPress core update is on our responsibility.",
         "group": "general",
         "url": "https://wordpress.org/plugins/wordpress-beta-tester/",
         "description": "WordPress core is read-only and can only be updated by us.",
