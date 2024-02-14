@@ -627,15 +627,6 @@
         "description": "this is our own git management plugin that is already built-in.",
         "subgroup": "other"
     }, {
-        "name": "MapPress Easy Google Maps",
-        "readme": "MapPress Easy Google Maps",
-        "file": "mappress-google-maps-for-wordpress/mappress.php",
-        "reason": "Presslabs notice: This plugin is doing useless SQL queries on init hook.",
-        "group": "performance",
-        "url": "https://wordpress.org/plugins/mappress-google-maps-for-wordpress/",
-        "description": "",
-        "subgroup": "sql-heavy"
-    }, {
         "name": "EWWW Image Optimizer",
         "readme": "EWWW Image Optimizer",
         "file": "ewww-image-optimizer/ewww-image-optimizer.php",
